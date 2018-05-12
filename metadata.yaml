@@ -1,0 +1,35 @@
+_repo: The-One-and-the-Many_30386
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Wilder, Stephen
+    - Chase, Adam
+    - Lesser, Milton
+    - Thames, C. H.
+    - Ridgway, Jason
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The One and the Many
+url: http://www.gutenberg.org/ebooks/30386
